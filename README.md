@@ -1,2 +1,2 @@
 # tictactoe
-CLI tic-tac-toe game
+A CLI tic-tac-toe game created using ruby
